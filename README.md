@@ -1,9 +1,7 @@
 # Face Mask Detection
 
 <div align="center">
-  <h3>Training Results</h3>
   <img src="face-mask-detector.png" width="90%">
-  <p><em>Training and validation metrics</em></p>
 </div>
 
 ## 📋 Overview
