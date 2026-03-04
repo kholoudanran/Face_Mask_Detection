@@ -1,7 +1,7 @@
 # Face Mask Detection
 
 <div align="center">
-  <img src="face-mask-detector.png" width="90%">
+  <img src="face-mask-detector.PNG" width="90%">
 </div>
 
 ## 📋 Overview
